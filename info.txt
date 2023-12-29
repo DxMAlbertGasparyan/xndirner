@@ -1,0 +1,5 @@
+grel 3 hat function vory petq e hashvi tvi factorialy`
+
+1. grel xndiry for ciklov;
+2. grel xndiry rekursiayov mecic poqr;
+3. grel xndiry rekursiayov poqric mec;
