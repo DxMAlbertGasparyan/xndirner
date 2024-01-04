@@ -3,3 +3,15 @@ grel 3 hat function vory petq e hashvi tvi factorialy`
 1. grel xndiry for ciklov;
 2. grel xndiry rekursiayov mecic poqr;
 3. grel xndiry rekursiayov poqric mec;
+
+
+
+- [Done] Array.prototype.every
+- [Done] Array.prototype.filter
+- [Done] Array.prototype.find
+- [Done] Array.prototype.findIndex
+- [Done] Array.prototype.join
+- [Done] Array.prototype.some
+- [Done] Array.prototype.map
+
+very nshvac metodnery sarqel yev avelacnel zangvaci prototypeum
